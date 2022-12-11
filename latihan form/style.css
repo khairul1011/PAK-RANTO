@@ -1,0 +1,16 @@
+body {
+}
+.forum {
+  border: 2px;
+  margin-top: 50px;
+  text-align: center;
+  border: 1px;
+}
+.nama {
+  margin-top: 20px;
+}
+.textarea {
+  margin-top: 20px;
+  padding-top: 20px;
+  color: rgb(145, 74, 74);
+}
